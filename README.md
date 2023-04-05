@@ -18,7 +18,7 @@ Abstração    | Abstração
 Produto para loja ✔ | Agendamento para sistema de dentista
 Carrinho de compras para loja ✔ | Conexão de banco de dados para Biblioteca de manipulação de dados ( Ex: Sequelize ).
 Comida para sistema de cardápio ✔ | Mensagem do WhatSapp
-Personagem para jogo RPG. | Inventário de personagem para jogo RPG.
+Personagem para jogo RPG. ✔ | Inventário de personagem para jogo RPG.
 Carro para sistema de aluguel de carros. | Grupo de rede social ( Ex: grupos do facebook )
 Usuário para rede social ( Ex: facebook ) | Player de vídeo
 Vídeo para serviço de streaming ( Ex:Youtube ) | Storie do instagram
