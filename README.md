@@ -21,7 +21,7 @@ Comida para sistema de cardápio ✔ | Mensagem do WhatSapp
 Personagem para jogo RPG. ✔ | Inventário de personagem para jogo RPG.
 Carro para sistema de aluguel de carros. ✔ | Grupo de rede social ( Ex: grupos do facebook )
 Usuário para rede social ( Ex: facebook ) ✔ | Player de vídeo
-Vídeo para serviço de streaming ( Ex:Youtube ) | Storie do instagram
+Vídeo para serviço de streaming ( Ex:Youtube ) ✔ | Storie do instagram
 Aluno para sistema de getão escolar | Buscador ( Ex: Formulário de busca do google )
 Encomenda para sistema de frete | Busca do google
 Banda para serviço de streaming ( Ex: Spotify ) | Notificação do facebook
